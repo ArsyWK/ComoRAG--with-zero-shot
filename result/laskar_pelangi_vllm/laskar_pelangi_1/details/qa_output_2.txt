@@ -1,0 +1,337 @@
+Problem-Solving Process Overview:
+==================================================
+Query: jelaskan kondisi sd muhammadiyah
+
+==================================================
+Step 1:
+------------------------------
+Predicted Answer: ### Content Understanding
+The text describes the conditions and characteristics of a school called SD Muhammadiyah in Belitong, Indonesia. The school is characterized by its low cost, minimal resources, and the presence of a large number of students. The school is located in a rural area and serves primarily students from nearby villages. The school lacks modern amenities and facilities, but it remains popular due to its proximity to the community and the quality of education provided.
+
+### Relevant Information Analysis
+------------------------------
+ver_context:
+Adapunsekolahini,SD,Adapun sekolah 
+ini, SD Muhammadiyah, juga sekolah kampung yang paling miskin 
+di Belitong.
+Pertama,karenasekolahMuhammadiyah,Pertama, karena sekolah Muhammadiyah tidak 
+menetapkan iuran dalam bentuk apa pun, para orangtua hanya 
+menyumbang sukarela semampu mereka.
+Makatidaksepertisuasana,Maka tidak seperti suasana di SD lain yang penuh kegembiraan 
+ketika menerima murid angkatan baru, suasana hari pertama di SD 
+Muhammadiyah penuh dengan kerisauan,  dan yang paling risau 
+adalah Bu Mus dan Pak Harfan.
+Guru-guruyangsederhanaini,Guru-guru yang sederhana ini berada dalam situasi genting 
+karena Pengawas Sekolah dari Depdikbud Sumsel telah 
+memperingatkan bahwa jika SD Muhammadiyah hanya mendapat 
+murid baru kurang dari sepuluh or ang maka sekolah paling tua di 
+13  Laskar Pelangi 
+Belitong ini harus ditutup.
+TahunlaluSDMuhammadiyah,Tahun lalu SD Muhammadiyah hanya mendapatkan sebelas 
+siswa, dan tahun ini Pak Harfan pesimis dapat memenuhi target 
+sepuluh.
+Saharamenangisterisak-isak,Sahara menangis terisak -isak mendekap ibunya karena 
+ia benar -benar ingin sekolah di SD Muhammadiyah.
+Lagipulalebihbaik,Lagi pula lebih baik kutitipkan dia disekolah ini daripada di 
+rumah ia hanya mengejar -ngejar anak-anak ayamku …..
+Kamikekuranganguru,Kami ke kurangan guru dan sebagian besar siswa SD 
+Muhammadiyah ke sekolah memakai sandal.
+SekolahMuhammadiyahtakpernah,Sekolah Muhammadiyah tak pernah dikunjungi pejabat, 
+penjual kaligrafi, pengawas sekolah, apalagi anggota dewan.
+Maka,sekolahkamisangat,Maka, sekolah kami sangat mirip gudang kopra.
+PakHarfan,sepertihalnya,Pak Harfan, seperti halnya sekolah ini, tak susah digambarkan.
+Adakeindahandisekolah,Ada keindahan di sekolah Islam 
+melarat ini.
+KuliahumumdariPak,Kuliah umum dari Pak 
+Harfan di hari pertama kami masuk SD Muhammadiyah langsung 
+menancapkan tekad dalam hati kami untuk membela sekolah yang 
+hampir rubuh ini, apa pun yang terjadi.
+DisekolahMuhammadiyahsetiap,Di sekolah Muhammadiyah setiap hari aku membaca keberanian 
+berkorban semacam itu di wajah wanita muda ini.
+Dandidalamsana,Dan di dalam sana 
+berdiri sekolah -sekolah PN.
+Sekolahinidemikiankaya,Sekolah ini demikian kaya raya 
+karena didukung sepenuhnya oleh PN Timah, sebuah korporasi 
+yang kelebihan duit.
+DemikianujarBangAmran,Demikian ujar Bang Amran Isnaini bin Muntaz is Ilham— yang 
+pernah sekolah di  sana — persis pada malam sebelum esoknya aku 
+masuk pertama kali di SD Muhammadiyah itu.
+Namunkondisisekolahnegeri,Namun kondisi sekolah 
+negeri tentu lebih baik karena mereka disokong oleh negara.
+MasalahnyadimataSyahdan,,Masalahnya di mata Syahdan, gedung sekolah, bagan ikan, dan 
+gudang kopra tempat kelapa -kelapa busuk itu bersemedi adalah 
+sama saja.
+Disiniadasekolahku,Di sini ada sekolahku yang 
+sederhana, para sahabatku yang melarat, orang Melayu yang 
+terabaikan, juga ada orang staf dan sekolah PN mereka ya ng 
+glamor, serta PN Timah yang gemah ripah dengan gedong, tembok 
+feodalistisnya.
+Pengetahuanterbesarterutamakudapat,Pengetahuan terbesar terutama kudapat dari sekolahku, karena 
+perguruan Muhammadiy ah bukanlah center of excellence  , tapi ia 
+merupakan pusat marginalitas sehingga ia adalah sebuah universitas 
+kehidupan.
+Disekolahiniaku,Di sekolah ini aku memahami arti keikhlasan, 
+perjuangan, dan integritas.
+Tafsirbaruakanktia,Tafsir baru akan ktia diskusikan 
+nanti kalau kelas dua SMP…..
+Sekarangsuasanabelajarmengajar,Sekarang suasana belajar mengajar di 
+sekolah kami menjadi berbeda karena kehadiran Lintang, hanya 
+tinggal menunggu kesempatan saja baginya untuk mengharumkan 
+nama perguruan Muhammadiyah.
+Merekadanlidahatap,Mereka dan 
+lidah atap sirap cokelat yang rapuh menyajikan kom posisi warna 
+kontras di atas sekolah Muhammadiyah.
+Kami,SMPMuhammadiyah,pergi,Kami, SMP 
+Muhammadiyah, pergi ke Pantai Pangkalan Punai.
+Itulahkebunsekolahmuhammadiyah,,Itulah kebun 
+sekolah muhammadiyah, indah dalam ketidakteraturan, seperti 
+lukisan Kandinsky.
+..,Muhammadiyah!Kapur,.., Muhammadiyah! Kap ur tulis!” keluh A Miauw 
+menarik napas panjang, seolah kami hanya akan merusak hokinya.
+MeskipunbukanmuridMuhammadiyah,Meskipun bukan murid Muhammadiyah namun tukang semprot 
+nyamuk ini selalu inginikut.
+Kenyataaninilahyangmemicu,Kenyataan inilah yang memicu pro dan kontra di antara  murid 
+dan guru Muhammadiyah setiap kali akan karnaval.
+KalaumasukkelasMahar,Kalau masuk kelas Mahar diam seribu bahasa.
+“SemuakekuatansekolahMuhammadiyah,“Semua kekuatan sekolah Muhammadiyah akan kita satukan 
+untuk satu hal!!!.
+Seluruhkalangandiperguruan,Seluruh kalangan di perguruan Muhammadiyah sekarang 
+menjadi satu hati dan mendukung penuh konsep Mahar.
+Seluruhsekolahsibukdengna,Seluruh sekolah sibuk 
+dengna berbagai latihan.
+Kamimengerahkanseluruhsumb,Kami 
+mengerahkan seluruh sumb er daya civitas akademika 
+Muhammadiyah.
+Halitudibuktikanoleh,Hal itu dibuktikan oleh   sekolah Muhammadiyah yang mampu 
+mematahkan mitos bah wa sekolah kampung tidak mungkin menang 
+melawan sekolah PN dalam karnaval.
+PenampilanMuhammadiyahtahunini,Penampilan Muhammadiyah tahun ini 
+adalah daripada suatu puncak pencapaian seni yang gilang 
+gemilang dan oleh karena itu dewan juri tak punya daripada pilihan 
+lain selia n daripada menganugerahkan penghargaan daripada 
+penampila seni terbaik tahun ini kepada sekolah Muhammadiyah !.
+Makaakumengerahkansegala,Maka aku mengerahkan segala daya upaya, memohon 
+sepenuh hati, agar tugas membeli kapur tulis dis erahkan padaku, 
+kalau perlu kapur tulis untuk seluruh kelas SD dan SMP 
+Muhammadiyah, sepanjang tahun ini.
+Rupanyadilihatdarisudut,Rupanya dilihat dari sudut dan jarak 
+bagaimanapun, sekolah kami tetap seperti gudang kopra!  
+Lalu Kucai menunjuk sebuah bangunan,"Hai! Tengoklah! Itu 
+masjid kita.
+Flotidakbisamembelanjakan,Flo tidak 
+bisa membelanjakan uang itu di sekolah Muhammadiyah karena tak 
+ada yang bisa dibeli.
+Aneh,disekolah,Aneh, di se kolah Muhammadiyah yang tak punya fasilitas apa 
+pun Flo sangat bersemangat.
+DenganbersamaMahardan,Dengan bersama 
+Mahar dan berada di sekolah Muhammadiyah Flo seperti berada di 
+dunia yang memang diidamkannya selama ini.
+BuMusmelihatlomba,Bu Mus melihat lomba ini sebagai media yang 
+sempurna untuk menaikkan martabat sekolah Muhammadiyah yang 
+bertahun tahun selalu diremehkan.
+Dengandemikianiadapat,Dengan demikian ia dapat menganulir p ertanyaan awal 
+tadi sekaligus menjatuhkan martabat majelis ini.
+Yangmenyakitkanadalahia,Yang menyakitkan 
+adalah ia dengan jelas menekankan kata SMP Muhammediyah 
+untuk megingatkan semua orang bahwa kami hanyalah sebuah 
+sekolah kampung yang tak penting.
+Siapapuntakpernah,Siapa pun tak pernah 
+membayangkan sekolah kampung Muhammadiyah yang melarat 
+dapat men galahkan raksasa -raksasa di meja mahoni itu, tapi 
+keinginan yang kuat, yang kami pelajari dan petuah Pak Harfan 
+sembilan tahun yang lalu di hari pertama kami masuk SD, agaknya 
+283  Laskar Pelangi 
+terbukti.
+Makadadakamitak,Maka dada kami 
+tak reda berdegup.
+Sekolahitudemikian,Sekolah itu demikia n teduh dalam kiprahnya, 
+tenang dalam kesahajaannya, bermartabat dalam kesederhanaan -
+nya, dan tenteram dalam kemiskinannya.
+Lebihdanitutingkah,Lebih dan itu tingkah laku keduanya merongrong reputasi 
+sekolah Muhammadiyah yang ketat menjaga nilai -nilai moral Islami.
+Sepanjangpengetahuankutak,Sepanjang pen getahuanku 
+tak ada mantan warga Muhammadiyah yang menjadi bagian dan 
+sebuah daftar para kniminal, khususnya koruptor.
+------------------------------
+ver_context:
+Adapunsekolahini,SD,Adapun sekolah 
+ini, SD Muhammadiyah, juga sekolah kampung yang paling miskin 
+di Belitong.
+Pertama,karenasekolahMuhammadiyah,Pertama, karena sekolah Muhammadiyah tidak 
+menetapkan iuran dalam bentuk apa pun, para orangtua hanya 
+menyumbang sukarela semampu mereka.
+Makatidaksepertisuasana,Maka tidak seperti suasana di SD lain yang penuh kegembiraan 
+ketika menerima murid angkatan baru, suasana hari pertama di SD 
+Muhammadiyah penuh dengan kerisauan,  dan yang paling risau 
+adalah Bu Mus dan Pak Harfan.
+Guru-guruyangsederhanaini,Guru-guru yang sederhana ini berada dalam situasi genting 
+karena Pengawas Sekolah dari Depdikbud Sumsel telah 
+memperingatkan bahwa jika SD Muhammadiyah hanya mendapat 
+murid baru kurang dari sepuluh or ang maka sekolah paling tua di 
+13  Laskar Pelangi 
+Belitong ini harus ditutup.
+TahunlaluSDMuhammadiyah,Tahun lalu SD Muhammadiyah hanya mendapatkan sebelas 
+siswa, dan tahun ini Pak Harfan pesimis dapat memenuhi target 
+sepuluh.
+Saharamenangisterisak-isak,Sahara menangis terisak -isak mendekap ibunya karena 
+ia benar -benar ingin sekolah di SD Muhammadiyah.
+Lagipulalebihbaik,Lagi pula lebih baik kutitipkan dia disekolah ini daripada di 
+rumah ia hanya mengejar -ngejar anak-anak ayamku …..
+Kamikekuranganguru,Kami ke kurangan guru dan sebagian besar siswa SD 
+Muhammadiyah ke sekolah memakai sandal.
+SekolahMuhammadiyahtakpernah,Sekolah Muhammadiyah tak pernah dikunjungi pejabat, 
+penjual kaligrafi, pengawas sekolah, apalagi anggota dewan.
+Maka,sekolahkamisangat,Maka, sekolah kami sangat mirip gudang kopra.
+PakHarfan,sepertihalnya,Pak Harfan, seperti halnya sekolah ini, tak susah digambarkan.
+Adakeindahandisekolah,Ada keindahan di sekolah Islam 
+melarat ini.
+KuliahumumdariPak,Kuliah umum dari Pak 
+Harfan di hari pertama kami masuk SD Muhammadiyah langsung 
+menancapkan tekad dalam hati kami untuk membela sekolah yang 
+hampir rubuh ini, apa pun yang terjadi.
+DisekolahMuhammadiyahsetiap,Di sekolah Muhammadiyah setiap hari aku membaca keberanian 
+berkorban semacam itu di wajah wanita muda ini.
+Dandidalamsana,Dan di dalam sana 
+berdiri sekolah -sekolah PN.
+Sekolahinidemikiankaya,Sekolah ini demikian kaya raya 
+karena didukung sepenuhnya oleh PN Timah, sebuah korporasi 
+yang kelebihan duit.
+DemikianujarBangAmran,Demikian ujar Bang Amran Isnaini bin Muntaz is Ilham— yang 
+pernah sekolah di  sana — persis pada malam sebelum esoknya aku 
+masuk pertama kali di SD Muhammadiyah itu.
+Namunkondisisekolahnegeri,Namun kondisi sekolah 
+negeri tentu lebih baik karena mereka disokong oleh negara.
+MasalahnyadimataSyahdan,,Masalahnya di mata Syahdan, gedung sekolah, bagan ikan, dan 
+gudang kopra tempat kelapa -kelapa busuk itu bersemedi adalah 
+sama saja.
+Disiniadasekolahku,Di sini ada sekolahku yang 
+sederhana, para sahabatku yang melarat, orang Melayu yang 
+terabaikan, juga ada orang staf dan sekolah PN mereka ya ng 
+glamor, serta PN Timah yang gemah ripah dengan gedong, tembok 
+feodalistisnya.
+Pengetahuanterbesarterutamakudapat,Pengetahuan terbesar terutama kudapat dari sekolahku, karena 
+perguruan Muhammadiy ah bukanlah center of excellence  , tapi ia 
+merupakan pusat marginalitas sehingga ia adalah sebuah universitas 
+kehidupan.
+Disekolahiniaku,Di sekolah ini aku memahami arti keikhlasan, 
+perjuangan, dan integritas.
+Tafsirbaruakanktia,Tafsir baru akan ktia diskusikan 
+nanti kalau kelas dua SMP…..
+Sekarangsuasanabelajarmengajar,Sekarang suasana belajar mengajar di 
+sekolah kami menjadi berbeda karena kehadiran Lintang, hanya 
+tinggal menunggu kesempatan saja baginya untuk mengharumkan 
+nama perguruan Muhammadiyah.
+Merekadanlidahatap,Mereka dan 
+lidah atap sirap cokelat yang rapuh menyajikan kom posisi warna 
+kontras di atas sekolah Muhammadiyah.
+Kami,SMPMuhammadiyah,pergi,Kami, SMP 
+Muhammadiyah, pergi ke Pantai Pangkalan Punai.
+Itulahkebunsekolahmuhammadiyah,,Itulah kebun 
+sekolah muhammadiyah, indah dalam ketidakteraturan, seperti 
+lukisan Kandinsky.
+..,Muhammadiyah!Kapur,.., Muhammadiyah! Kap ur tulis!” keluh A Miauw 
+menarik napas panjang, seolah kami hanya akan merusak hokinya.
+MeskipunbukanmuridMuhammadiyah,Meskipun bukan murid Muhammadiyah namun tukang semprot 
+nyamuk ini selalu inginikut.
+Kenyataaninilahyangmemicu,Kenyataan inilah yang memicu pro dan kontra di antara  murid 
+dan guru Muhammadiyah setiap kali akan karnaval.
+KalaumasukkelasMahar,Kalau masuk kelas Mahar diam seribu bahasa.
+“SemuakekuatansekolahMuhammadiyah,“Semua kekuatan sekolah Muhammadiyah akan kita satukan 
+untuk satu hal!!!.
+Seluruhkalangandiperguruan,Seluruh kalangan di perguruan Muhammadiyah sekarang 
+menjadi satu hati dan mendukung penuh konsep Mahar.
+Seluruhsekolahsibukdengna,Seluruh sekolah sibuk 
+dengna berbagai latihan.
+Kamimengerahkanseluruhsumb,Kami 
+mengerahkan seluruh sumb er daya civitas akademika 
+Muhammadiyah.
+Halitudibuktikanoleh,Hal itu dibuktikan oleh   sekolah Muhammadiyah yang mampu 
+mematahkan mitos bah wa sekolah kampung tidak mungkin menang 
+melawan sekolah PN dalam karnaval.
+PenampilanMuhammadiyahtahunini,Penampilan Muhammadiyah tahun ini 
+adalah daripada suatu puncak pencapaian seni yang gilang 
+gemilang dan oleh karena itu dewan juri tak punya daripada pilihan 
+lain selia n daripada menganugerahkan penghargaan daripada 
+penampila seni terbaik tahun ini kepada sekolah Muhammadiyah !.
+Makaakumengerahkansegala,Maka aku mengerahkan segala daya upaya, memohon 
+sepenuh hati, agar tugas membeli kapur tulis dis erahkan padaku, 
+kalau perlu kapur tulis untuk seluruh kelas SD dan SMP 
+Muhammadiyah, sepanjang tahun ini.
+Rupanyadilihatdarisudut,Rupanya dilihat dari sudut dan jarak 
+bagaimanapun, sekolah kami tetap seperti gudang kopra!  
+Lalu Kucai menunjuk sebuah bangunan,"Hai! Tengoklah! Itu 
+masjid kita.
+Flotidakbisamembelanjakan,Flo tidak 
+bisa membelanjakan uang itu di sekolah Muhammadiyah karena tak 
+ada yang bisa dibeli.
+Aneh,disekolah,Aneh, di se kolah Muhammadiyah yang tak punya fasilitas apa 
+pun Flo sangat bersemangat.
+DenganbersamaMahardan,Dengan bersama 
+Mahar dan berada di sekolah Muhammadiyah Flo seperti berada di 
+dunia yang memang diidamkannya selama ini.
+BuMusmelihatlomba,Bu Mus melihat lomba ini sebagai media yang 
+sempurna untuk menaikkan martabat sekolah Muhammadiyah yang 
+bertahun tahun selalu diremehkan.
+Dengandemikianiadapat,Dengan demikian ia dapat menganulir p ertanyaan awal 
+tadi sekaligus menjatuhkan martabat majelis ini.
+Yangmenyakitkanadalahia,Yang menyakitkan 
+adalah ia dengan jelas menekankan kata SMP Muhammediyah 
+untuk megingatkan semua orang bahwa kami hanyalah sebuah 
+sekolah kampung yang tak penting.
+Siapapuntakpernah,Siapa pun tak pernah 
+membayangkan sekolah kampung Muhammadiyah yang melarat 
+dapat men galahkan raksasa -raksasa di meja mahoni itu, tapi 
+keinginan yang kuat, yang kami pelajari dan petuah Pak Harfan 
+sembilan tahun yang lalu di hari pertama kami masuk SD, agaknya 
+283  Laskar Pelangi 
+terbukti.
+Makadadakamitak,Maka dada kami 
+tak reda berdegup.
+Sekolahitudemikian,Sekolah itu demikia n teduh dalam kiprahnya, 
+tenang dalam kesahajaannya, bermartabat dalam kesederhanaan -
+nya, dan tenteram dalam kemiskinannya.
+Lebihdanitutingkah,Lebih dan itu tingkah laku keduanya merongrong reputasi 
+sekolah Muhammadiyah yang ketat menjaga nilai -nilai moral Islami.
+Sepanjangpengetahuankutak,Sepanjang pen getahuanku 
+tak ada mantan warga Muhammadiyah yang menjadi bagian dan 
+sebuah daftar para kniminal, khususnya koruptor.
+------------------------------
+epi_context:
+The first point is about the lack of tuition fees at Muhammadiyah schools. The second point discusses how children from these schools are considered to have easily susceptible characters due to their age, making it necessary for them to develop strong Islamic awareness early on.
+The Guru-guru yang sederhana ini berada dalam situasi genting karena pengawas sekolah dari Depdikbud Sumsel memperingatkan bahwa jika SD Muhammadiyah hanya mendapat murid baru kurang dari sepuluh orang atau anggota keluarga maka sekolah paling tua di 13 Laskar Pelangi Belitong harus ditutup. Karenanya, sekarang bu Mus dan pak Harfan cemas sebab sekolah mereka akan tamat riwayatnya, sedangkan para orangtua cemas karena biaya, dan kami, sembilan anak-anak kecil ini yang terperangkap di tengah cemas kalau - kalau kami tak jadi sekolah.
+The year before last, SD Muhammadiyah only had 11 students, but this year, Mr. Harfan is pessimistic about meeting the target of having ten students.
+On the day of the morning assembly, Makadiam-diambeliau decided to give a speech about the school's closure to parents of students.
+The text describes the author's school, Laskar Pelangi, which is one of several schools in Indonesia with limited resources but high potential for growth. The author mentions their school has six small classes, two for primary school (SD) and four for secondary school (SMP). They also mention that if even a few students from these schools were to engage in conflict or rivalry, it could lead to chaos due to the lack of resources and support systems. This highlights the importance of unity and cooperation among students and teachers in such environments.
+The text describes an educational experience in a school called SD (Sekolah Dasar) with the name "MD" (Muhammadiyah). The main character is a student who learns Arabic script during their time at this school. They learn how to read and write in Arabic characters after learning to read and write in English or another language. 
+
+After mastering reading and writing in Arabic, they realize that the words written on the board mean "Amar Makruf Nahi Mungkar," which translates to "encouraging what is good and forbidding what is bad." This phrase becomes ingrained in their mind and stays with them throughout their life. The text emphasizes the importance of these teachings and how they have influenced the person's values and behavior.
+In 1929, this individual struggled just like the Prophet Muhammad when he first arrived in Madinah to establish a school using wooden planks like chicken coops. Then, a leader emerged, followed by other notable individuals such as K.A. This person was determined to create an educational institution from scratch, much like how the Prophet Muhammad faced challenges upon his arrival in Madinah.
+The narrator feels fortunate because their parents enrolled them in Muhammadiyah school, which is an Islamic institution providing basic education. The narrator expresses gratitude for this opportunity, describing it as a chance to be saved from hardship due to having access to such a prestigious educational facility.
+The text describes an individual's experience at a school in Indonesia, which is described as being "lengkap" (complete) with its unique features. The person feels fortunate to be there because they find it interesting and engaging. They mention that the school has a beautiful environment, highlighting the importance of natural beauty in education. This highlights the significance of having a well-designed learning space that can inspire students and enhance their overall educational experience.
+The text describes a school called SekolahPN, which is described as a center of excellence or place for all the best things. The school is so well-equipped because it is supported entirely by PN Timah, a corporation with an abundance of money. This financial support allows the school to offer high-quality education and resources to its students.
+The text describes a school with high standards and resources for its students. The school has a well-equipped library, cafeteria, teachers, laboratories, art facilities, extracurricular activities, recreational facilities, and sports equipment, including a swimming pool still called "zwembad" in Dutch. The school is competitive among other schools, with talented students striving for excellence.
+The text describes a school in Kalauadasiswanyayang where students who are sick receive immediate medical attention from professionals or are quickly transported by ambulance. The school also has dedicated staff members such as janitors, teachers with high salaries, and security personnel wearing police uniforms who always blow whistles. This highlights the importance of having well-equipped facilities and trained personnel at schools to ensure the health and safety of students.
+The text describes an event from the perspective of someone who attended school at Talimerahbergulung-Gulung in Tali Merah. The narrator mentions that they were present when their friend, Bang Amran, made a comment about the red uniform's movement on his shoulder during physical education class. This incident was significant enough for the narrator to remember it vividly, even though it occurred before they started attending the same school. The narrator then recalls that this conversation happened just before they entered their first day at SD Muhammadiyah.
+The narrator is describing their experience in school for the first time. They mention that there are different teachers for each subject, but they are still struggling with counting how many teachers there are at the school. The narrator also expresses excitement about going to school tomorrow. 
+
+They then describe the students at the school, who are mostly children from outside Belitong whose parents work for the school. The narrator notes that these children's parents hold high positions within the school.
+The text describes a school that welcomes children from various backgrounds, including those who come from rural areas like Bang Amran. The school is described as being clean and well-organized, with students who are neatly dressed, polite, wealthy, and intelligent. The school also has an emphasis on education, providing opportunities for students to learn and grow in a supportive environment. Overall, the text portrays the school as a place where everyone can thrive and succeed.
+The text describes an educational setting where students participate in both academic activities and cultural performances. The primary focus is on a school with multiple classes, each capable of accommodating up to 40 students and at least four classes per grade level. This arrangement allows for a diverse range of learning experiences within the same institution.
+The text discusses the existence of various types of schools in a village called Belitong. It begins by mentioning that there is a school for Muslim students (Muhammadiyah) and some other private schools with limited funding. The author then states that besides these, there are also several state-run schools in the village. This information provides a comprehensive overview of the educational landscape in the area.
+The text describes Beliau, who is a retired person, working as a rice seller for PT Timah and has held the position of chairman of the mosque committee for several years. He was also once the head of our class but felt that being the class leader was not an enjoyable job. The text highlights his experience in various roles and his dissatisfaction with some jobs, such as being the class leader.
+The text describes a scenario where someone named Kamimenulispilihankami is writing down their choices with great effort and ensuring they align closely with strict standards. After completing this task, they feel satisfied with their decisions and believe that the time for their class president position will soon come to an end.
+Lintangselaluterobsesidan,Lintang selalu terobsesi dengan hal-hal baru, setiap informasi adalaah sumbu ilmu yang dapat meledakkan rasa ingin tahu. Kami berada di kelas lima dan kejadian ini terjadi ketika Ia diselamatkan oleh Bodenga. Kejadian ini menjadi awal dari perjalanan mereka bersama.
+The text describes a situation where Danyanglebihmendebarkan is not invited to participate in an academic competition due to their poor performance at school. The narrator mentions that they have been excluded from such prestigious events for years because their school consistently falls short of expectations. This exclusion has led to a sense of disappointment and frustration among the narrator and others who share similar experiences.
+The protagonist is described as being in a situation where they have been subjected to harassment or bullying by their peers. They respond with defiance and determination, choosing not to be intimidated by the negative behavior. The narrator's actions demonstrate resilience and strength in the face of adversity.
+The text appears to be in Bahasa Indonesia, but it is not entirely clear what it means or conveys. It seems to contain some incomplete sentences or possibly a typo. Without more context or information about its intended meaning, I cannot provide a meaningful summary. If you have any additional details or can clarify the content, please do so, and I will be happy to assist further.
+------------------------------
+Historical Information:
+
+------------------------------
+Response: ### Content Understanding
+The text describes the conditions and characteristics of a school called SD Muhammadiyah in Belitong, Indonesia. The school is characterized by its low cost, minimal resources, and the presence of a large number of students. The school is located in a rural area and serves primarily students from nearby villages. The school lacks modern amenities and facilities, but it remains popular due to its proximity to the community and the quality of education provided.
+
+### Relevant Information Analysis
+Error: Response does not contain '### Final Answer' section
+==================================================
+

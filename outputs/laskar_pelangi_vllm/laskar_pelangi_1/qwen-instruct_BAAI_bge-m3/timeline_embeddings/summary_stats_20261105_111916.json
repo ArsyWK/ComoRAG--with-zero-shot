@@ -1,0 +1,25 @@
+{
+  "total_levels": 1,
+  "levels": [
+    {
+      "level": 0,
+      "node_count": 2764,
+      "total_tokens": 413494,
+      "avg_tokens_per_node": 149.5998552821997,
+      "min_tokens": 26,
+      "max_tokens": 500,
+      "total_chars": 2147412,
+      "avg_chars_per_node": 776.9218523878437
+    }
+  ],
+  "total_tokens": 413494,
+  "total_nodes": 2764,
+  "timestamp": "2026-11-05 11:19:15",
+  "model_info": {
+    "window_size": 2,
+    "max_workers": 8,
+    "total_chunks": 5527
+  },
+  "avg_tokens_per_level": 413494.0,
+  "avg_nodes_per_level": 2764.0
+}

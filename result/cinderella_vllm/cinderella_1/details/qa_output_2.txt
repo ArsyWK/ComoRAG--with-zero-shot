@@ -1,0 +1,243 @@
+Problem-Solving Process Overview:
+==================================================
+Query: What happens when the snow covers Cinderella's mother's grave?
+
+==================================================
+Step 1:
+------------------------------
+Predicted Answer: When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, "Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife."
+------------------------------
+ver_context:
+ and as she felt that her end
+was drawing near, she called her only daughter to her bedside and
+said, dear child, be good and pious, and then the
+good God will always protect you, and I will look down on you
+from heaven and be near you.  Thereupon she closed her eyes and
+departed.  Every day the maiden went out to her mother's grave,
+and wept, and she remained pious and good.  When winter came
+the snow spread a white sheet over the grave, and by the time the
+spring sun had drawn it off again, the man had taken another wife.
+The woman had brought with her into the house two daughters,
+who were beautiful and fair of face, but vile and black of heart.
+Now began a bad time for the poor step-child.  Is the stupid goose
+to sit in the parlor with us, they said.  He who wants to eat bread
+must earn it.  Out with the kitchen-wench.  They took her pretty
+clothes away from her, put an old grey bedgown on her, and gave
+her wooden shoes.  Just look at the proud princess, how decked
+out she is, they cried, and laughed, and led her into the kitchen.
+There she had to do hard work from morning till night, get up
+before daybreak, carry water, light fires, cook and wash.  Besides
+this, the sisters did her every imaginable injury - they mocked her
+and emptied her peas and lentils into the ashes, so that she was
+forced to sit and pick them out again.  In the evening when she had
+worked till she was weary she had no bed to go to, but had to sleep
+by the hearth in the cinders.  And as on that account she always
+looked dusty and dirty, they called her cinderella.
+It happened that the father was once going to the fair, and he
+asked his two step-daughters what he should bring back for them.
+Beautiful dresses, said one, pearls and jewels, said the second.
+And you, cinderella, said he, what will you have.  Father
+break off for me the first branch which knocks against your hat on
+your way home.  So he bought beautiful dresses, pearls and jewels
+for his two step-daughters, and on his way home, as he was riding
+through a green thicket, a hazel twig brushed against him and
+knocked off his hat.  Then he broke off the branch and took it with
+him.  When he reached home he gave his step-daughters the things
+which they had wished for, and to cinderella he gave the branch
+from the hazel-bush.  Cinderella thanked him, went to her mother's
+grave and planted the branch on it, and wept so much that the tears
+fell down on it and watered it.  And it grew and became a handsome
+tree. Thrice a day cinderella went and sat beneath it, and wept and
+prayed, and a little white bird always came on the tree, and if
+cinderella expressed a wish, the bird threw down to her what she
+had wished for.
+It happened, however, that the king gave orders for a festival
+which was to last three days, and to which all the beautiful young
+girls in the country were
+invited, in order that his son might choose
+himself a bride.  When the two step-sisters heard that they too were
+to appear among the number, they were delighted, called cinderella
+and said, comb our hair for us, brush our shoes and fasten our
+buckles, for we are going to the wedding at the king's palace.
+Cinderella obeyed, but wept, because she too would have liked to
+go with them to the dance, and begged her step-mother to allow
+her to do so.  You go, cinderella, said she, covered in dust and
+dirt as you are, and would go to the festival.  You have no clothes
+and shoes, and yet would dance.  As, however, cinderella went on
+asking, the step-mother said at last, I have emptied a dish of
+lentils into the ashes for you, if you have picked them out again in
+two hours, you shall go with us.  The maiden went through the
+back-door into the garden, and called, you tame pigeons, you
+turtle-doves, and all you birds beneath the sky, come and help me
+to pick
+     the good into the pot,
+     the bad into the crop.
+Then two white pigeons came in by the kitchen window, and
+afterwards the turtle-doves, and at last all the birds beneath the
+sky, came whirring and crowding in, and alighted amongst the ashes.
+And the pigeons nodded with their heads and began pick, pick,
+pick, pick, and the rest began also pick, pick, pick, pick, and
+gathered all the good grains into the dish.  Hardly had one hour
+passed before they had finished, and all flew out again.  Then the
+girl took the dish to her step-mother, and was glad, and believed
+that now she would be allowed to go with them to the festival.
+But the step-mother said, no, cinderella, you have no clothes and
+you can not dance.  You would only be laughed at.  And as
+cinderella wept at this, the step-mother said, if you can pick two
+dishes of lentils out of the ashes for me in one hour, you shall go
+with us.  And she thought to herself, that she most certainly
+cannot do again.  When the step-mother had emptied the two
+dishes of lentils amongst the ashes, the maiden went through the
+back-door into the garden and cried, you tame pigeons, you
+turtle-doves, and all you birds beneath the sky, come and help me
+to pick
+     the good into the pot,
+     the bad into the crop.
+Then two white pigeons came in by the kitchen-window, and
+afterwards the turtle-doves, and at length all the birds beneath the
+sky, came whirring and crowding in, and alighted amongst the
+ashes.  And the doves nodded with their heads and began pick,
+pick, pick, pick, and the others began also pick, pick, pick, pick,
+and gathered all the good seeds into the dishes, and before half an
+hour was over they had already finished, and all flew out again.
+Then the maiden was delighted, and believed that she might now go
+with them to the wedding.  But the step-mother said, all this will
+not help.  You cannot go with us, for you have no clothes and can
+not
+------------------------------
+ver_context:
+ and as she felt that her end
+was drawing near, she called her only daughter to her bedside and
+said, dear child, be good and pious, and then the
+good God will always protect you, and I will look down on you
+from heaven and be near you.  Thereupon she closed her eyes and
+departed.  Every day the maiden went out to her mother's grave,
+and wept, and she remained pious and good.  When winter came
+the snow spread a white sheet over the grave, and by the time the
+spring sun had drawn it off again, the man had taken another wife.
+The woman had brought with her into the house two daughters,
+who were beautiful and fair of face, but vile and black of heart.
+Now began a bad time for the poor step-child.  Is the stupid goose
+to sit in the parlor with us, they said.  He who wants to eat bread
+must earn it.  Out with the kitchen-wench.  They took her pretty
+clothes away from her, put an old grey bedgown on her, and gave
+her wooden shoes.  Just look at the proud princess, how decked
+out she is, they cried, and laughed, and led her into the kitchen.
+There she had to do hard work from morning till night, get up
+before daybreak, carry water, light fires, cook and wash.  Besides
+this, the sisters did her every imaginable injury - they mocked her
+and emptied her peas and lentils into the ashes, so that she was
+forced to sit and pick them out again.  In the evening when she had
+worked till she was weary she had no bed to go to, but had to sleep
+by the hearth in the cinders.  And as on that account she always
+looked dusty and dirty, they called her cinderella.
+It happened that the father was once going to the fair, and he
+asked his two step-daughters what he should bring back for them.
+Beautiful dresses, said one, pearls and jewels, said the second.
+And you, cinderella, said he, what will you have.  Father
+break off for me the first branch which knocks against your hat on
+your way home.  So he bought beautiful dresses, pearls and jewels
+for his two step-daughters, and on his way home, as he was riding
+through a green thicket, a hazel twig brushed against him and
+knocked off his hat.  Then he broke off the branch and took it with
+him.  When he reached home he gave his step-daughters the things
+which they had wished for, and to cinderella he gave the branch
+from the hazel-bush.  Cinderella thanked him, went to her mother's
+grave and planted the branch on it, and wept so much that the tears
+fell down on it and watered it.  And it grew and became a handsome
+tree. Thrice a day cinderella went and sat beneath it, and wept and
+prayed, and a little white bird always came on the tree, and if
+cinderella expressed a wish, the bird threw down to her what she
+had wished for.
+It happened, however, that the king gave orders for a festival
+which was to last three days, and to which all the beautiful young
+girls in the country were
+invited, in order that his son might choose
+himself a bride.  When the two step-sisters heard that they too were
+to appear among the number, they were delighted, called cinderella
+and said, comb our hair for us, brush our shoes and fasten our
+buckles, for we are going to the wedding at the king's palace.
+Cinderella obeyed, but wept, because she too would have liked to
+go with them to the dance, and begged her step-mother to allow
+her to do so.  You go, cinderella, said she, covered in dust and
+dirt as you are, and would go to the festival.  You have no clothes
+and shoes, and yet would dance.  As, however, cinderella went on
+asking, the step-mother said at last, I have emptied a dish of
+lentils into the ashes for you, if you have picked them out again in
+two hours, you shall go with us.  The maiden went through the
+back-door into the garden, and called, you tame pigeons, you
+turtle-doves, and all you birds beneath the sky, come and help me
+to pick
+     the good into the pot,
+     the bad into the crop.
+Then two white pigeons came in by the kitchen window, and
+afterwards the turtle-doves, and at last all the birds beneath the
+sky, came whirring and crowding in, and alighted amongst the ashes.
+And the pigeons nodded with their heads and began pick, pick,
+pick, pick, and the rest began also pick, pick, pick, pick, and
+gathered all the good grains into the dish.  Hardly had one hour
+passed before they had finished, and all flew out again.  Then the
+girl took the dish to her step-mother, and was glad, and believed
+that now she would be allowed to go with them to the festival.
+But the step-mother said, no, cinderella, you have no clothes and
+you can not dance.  You would only be laughed at.  And as
+cinderella wept at this, the step-mother said, if you can pick two
+dishes of lentils out of the ashes for me in one hour, you shall go
+with us.  And she thought to herself, that she most certainly
+cannot do again.  When the step-mother had emptied the two
+dishes of lentils amongst the ashes, the maiden went through the
+back-door into the garden and cried, you tame pigeons, you
+turtle-doves, and all you birds beneath the sky, come and help me
+to pick
+     the good into the pot,
+     the bad into the crop.
+Then two white pigeons came in by the kitchen-window, and
+afterwards the turtle-doves, and at length all the birds beneath the
+sky, came whirring and crowding in, and alighted amongst the
+ashes.  And the doves nodded with their heads and began pick,
+pick, pick, pick, and the others began also pick, pick, pick, pick,
+and gathered all the good seeds into the dishes, and before half an
+hour was over they had already finished, and all flew out again.
+Then the maiden was delighted, and believed that she might now go
+with them to the wedding.  But the step-mother said, all this will
+not help.  You cannot go with us, for you have no clothes and can
+not
+------------------------------
+epi_context:
+In this story, there is a family consisting of a mother, daughter, and step-daughters. The mother has passed away, leaving behind her daughter and two step-daughters. The daughter is instructed to remain pious and good, while the step-daughters are described as being ugly and having wicked hearts.
+
+Winter comes, and the step-daughters marry other men. One of the step-daughters brings two daughters into the household, who are beautiful but have evil hearts. The step-daughter who married the man with the new wife treats the step-child poorly, mocking her and forcing her to perform hard labor.
+
+One day, the step-daughter asks her step-mother to buy her some beautiful dresses, pearls, and jewels. However, the step-mother gives the step-child a branch from a hazel bush instead. The step-child thanks her step-mother and plants the branch on her mother's grave, where it grows into a tree. A little white bird appears each day and throws down to the girl whatever she wishes for.
+
+Meanwhile, the king announces a festival for unmarried girls to attend, and the two step-daughters invite the step-child to join them. The step-child agrees, but the step-mother refuses, saying she has no clothes or shoes and cannot dance. The step-child pleads with her step-mother, but she still refuses. The step-mother tells the step-child that she must pick two dishes of lentils out of the ashes within an hour, but the step-child believes she can do it.
+
+However, the step-mother empties the dishes of lentils, and the step-child is disappointed. She goes outside and calls for help, but the birds refuse to come. The step-child returns inside and is told that she cannot go to the festival. The step-mother says that picking lentils out of the ashes won't help, and the step-child continues to cry.
+
+Finally, the step-mother decides to give the step-child a chance. She tells the step-child to pick two dishes of lentils out of the ashes within an hour, and the step-child does so successfully. The step-child is allowed to go to the festival, and the birds throw down to her everything she wished
+Cinderella, a young girl living in poverty, dreams of attending a royal ball. However, her stepsisters and stepmother refuse to allow her to do so. Cinderella decides to attend the ball disguised as a prince, hoping to win the heart of the king's son.
+
+At the ball, Cinderella meets the king's son, who takes her by the hand and dances with her. He promises to take her home and marry her. Cinderella is elated and wants to leave immediately, but the king's son insists on accompanying her.
+
+The next day, Cinderella returns to her mother's grave and prays for help. A fairybird appears and gives Cinderella a new dress and slippers. Cinderella wears the dress to the ball, and everyone is amazed by her beauty. The king's son dances with her only, and if anyone invites her to dance, he says, "This is my partner."
+
+Cinderella wishes to leave after the ball, but the king's son follows her. She escapes into the garden behind the house, where she finds a pear tree hanging a magnificent pear. She climbs between the branches and runs away, leaving her shoes behind.
+
+The next day, Cinderella attends the ball again, wearing the new dress. Everyone is surprised by her beauty, and the king's son dances with her only. When evening comes, Cinderella wishes to leave, but the king's son follows her. She jumps onto the stairs, and the pitch on the stairs causes her left shoe to stick.
+
+The king's son picks up the shoe and goes to find Cinderella. He sees the false bride and turns his horse around, taking her home. The false bride tries on the shoe, but it is too small for her. Her mother cuts off her toe, and she becomes the true bride.
+
+The king's son takes the true bride on his horse as his bride and rides away with her. They pass the grave, and the birds cry, "Turn and peep, turn and peep, there's blood within the shoe, the shoe it is too small for her, the true bride waits for you." The king's son looks at her foot and sees the blood dripping from it. He turns his horse around and takes the false bride home again, saying she is not the true one.
+Cinderella, the youngest daughter of a poor shoemaker, dreams of marrying the king's son. Her older sister, however, insists Cinderella must marry someone else. Cinderella's mother gives her a knife and tells her to cut off her heel so she can wear shoes fit for royalty. Cinderella follows her mother's advice and cuts off her heel, only to discover that the shoe fits poorly. Her mother takes her to the king's son, where he marries her and takes her away. However, when they pass by a hazel tree, two pigeons cry out about the shoe being too small for Cinderella. The king's son turns around and takes Cinderella back home. Cinderella's mother refuses to let her leave, but the king's son insists and takes her to the palace. On the way, the pigeons peck out one eye from each of Cinderella's sisters. They come back later with another pair of eyes, and the sisters become blind. Cinderella finally recognizes her beauty and is taken to the king's son, who declares her the true bride. The sisters are horrified and become blind, while Cinderella and the king's son celebrate their marriage.
+------------------------------
+Historical Information:
+
+------------------------------
+Response: When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, "Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife."
+
+Answer: When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, "Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife."
+
+### Final Answer
+When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, "Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife."
+==================================================
+

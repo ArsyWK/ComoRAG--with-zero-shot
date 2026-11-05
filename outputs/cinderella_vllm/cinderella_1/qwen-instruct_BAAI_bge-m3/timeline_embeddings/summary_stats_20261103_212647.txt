@@ -1,0 +1,23 @@
+=== Summary Statistics ===
+Generation Time: 2026-11-03 21:26:47
+Total Levels: 1
+Total Nodes: 3
+Total Tokens: 1163
+Average Tokens per Level: 1163.00
+Average Nodes per Level: 3.00
+
+=== Model Configuration ===
+Window Size: 2
+Max Worker Threads: 8
+Initial Text Chunks: 6
+
+=== Level Details ===
+
+Level 0:
+  Node Count: 3
+  Total Tokens: 1163
+  Average Tokens per Node: 387.67
+  Min Tokens: 242
+  Max Tokens: 470
+  Total Characters: 5246
+  Average Characters per Node: 1748.67

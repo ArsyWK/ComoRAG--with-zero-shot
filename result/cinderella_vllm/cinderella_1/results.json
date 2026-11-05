@@ -1,0 +1,29 @@
+[
+  {
+    "idx": 0,
+    "question": "What did Cinderella's mother tell her before she died?",
+    "golden_answers": [
+      "Be good and pious",
+      "God will protect you"
+    ],
+    "output": "### Content Understanding\nThe text describes Cinderella's journey and eventual marriage to the king's son. It mentions that Cinderella's mother gave her a knife and told her to cut off her heel so she could wear shoes fit for royalty.\n\n### Relevant Information Analysis\n- Cinderella's mother gave her a knife\n- Cinderella's mother told her to cut off her heel\n- Cinderella's mother wanted her to wear shoes fit for royalty\n\n### Key Facts\n- Cinderella's mother gave her a knife\n- Cinderella's mother told her to cut off her heel\n- Cinderella's mother wanted her to wear shoes fit for royalty\n\n### Final Answer\nCinderella's mother told her to cut off her heel so she could wear shoes fit for royalty."
+  },
+  {
+    "idx": 1,
+    "question": "How did the prince find Cinderella?",
+    "golden_answers": [
+      "Slipper fit",
+      "Golden slipper"
+    ],
+    "output": "To determine how the prince found Cinderella, I'll review the relevant parts of the story:\n\n1. Cinderella attended a ball dressed as a prince.\n2. The prince danced with her and promised to take her home and marry her.\n3. The prince followed her to the ball.\n4. The prince saw her wishing to leave after the ball.\n5. The prince turned his horse around and took her home.\n\nBased on this sequence, the prince found Cinderella by following her to the ball and seeing her wishing to leave after the event. He then turned his horse around and took her home.\n\nFinal answer: The prince found Cinderella by following her to the ball and seeing her wishing to leave after the event. He then turned his horse around and took her home."
+  },
+  {
+    "idx": 2,
+    "question": "What happens when the snow covers Cinderella's mother's grave?",
+    "golden_answers": [
+      "Father marries again",
+      "Stepmother enters the house"
+    ],
+    "output": "When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, \"Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife.\"\n\nAnswer: When the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, \"Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife.\"\n\n### Final Answer\nWhen the snow covers Cinderella's mother's grave, it transforms the scene dramatically. The text states, \"Thereupon she closed her eyes and departed.  Every day the maiden went out to her mother's grave, and wept, and she remained pious and good.  When winter came the snow spread a white sheet over the grave, and by the time the spring sun had drawn it off again, the man had taken another wife.\""
+  }
+]

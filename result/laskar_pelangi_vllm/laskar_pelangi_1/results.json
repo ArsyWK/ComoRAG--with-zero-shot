@@ -1,0 +1,43 @@
+[
+  {
+    "idx": 0,
+    "question": "apa tokoh yang digambarkan pak harfan",
+    "golden_answers": [
+      "Pak Harfan adalah kepala sekolah yang tampaknya sedang cemas dan tidak yakin tentang kehadiran anak-anak baru di sekolah."
+    ],
+    "output": "### Content Understanding\nThe text describes Pak Harfan, a teacher at a school, and his interactions with his students and colleagues.\n\n### Relevant Information Analysis\n- **Pak Harfan**: The main character introduced in the text.\n- **Students**: Various students mentioned throughout the text.\n- **Colleagues**: Mrs. Mus, Harun, and Ia are mentioned as colleagues of Pak Harfan.\n\n### Key Facts\n- **Pak Harfan**: Teacher at a school.\n- **Students**: Various students mentioned.\n- **Colleagues**: Mrs. Mus, Harun, and Ia are mentioned as colleagues of Pak Harfan.\n\n### Final Answer\nPak Harfan."
+  },
+  {
+    "idx": 1,
+    "question": "mengapa lintang meronta-ronta ingin masuk ke kelas",
+    "golden_answers": [
+      "Lintang meronta-ronta ingin masuk ke kelas karena ia merasa ingin sekolah dan merasa tidak tenang di bangku panjang."
+    ],
+    "output": "Lintang meronta-ronta ingin masuk ke kelas karena dia merasa tertekan dan khawatir dengan tantangan yang dihadapinya di sekolah. Dia merasa bahwa sekolah adalah tempat yang tepat untuk belajar dan berkembang, dan dia ingin mencoba dan memaksakan diri untuk menjadi seorang siswa yang berprestasi."
+  },
+  {
+    "idx": 2,
+    "question": "jelaskan kondisi sd muhammadiyah",
+    "golden_answers": [
+      "Guru-guru di SD Muhammadiyah menggunakan obat APC untuk menyembuhkan penyakit anak-anak, dan sekolah tidak dijaga karena tidak ada benda berharga yang layak dicuri.",
+      "SD Muhammadiyah adalah sekolah miskin di Belitong yang memiliki beberapa kekurangan seperti kurangnya guru, tidak ada seragam, dan tidak ada kotak P3K."
+    ],
+    "output": "### Content Understanding\nThe text describes the conditions and characteristics of a school called SD Muhammadiyah in Belitong, Indonesia. The school is characterized by its low cost, minimal resources, and the presence of a large number of students. The school is located in a rural area and serves primarily students from nearby villages. The school lacks modern amenities and facilities, but it remains popular due to its proximity to the community and the quality of education provided.\n\n### Relevant Information Analysis"
+  },
+  {
+    "idx": 3,
+    "question": "apa peran bu mus dalam buku ini",
+    "golden_answers": [
+      "Bu Mus adalah orangtua yang cemas dan merasa tidak yakin tentang kehadiran anak-anak baru di sekolah, dan ia berusaha untuk mengabsensikan anak-anak baru."
+    ],
+    "output": "### Content Understanding\nThe text discusses a novel called \"Seandainya Mereka Bisa Bicara\" (If They Could Talk) by Herriot. The novel focuses on a mother named Bu Mus who is dealing with her son's misbehavior and the weight of his responsibilities. She feels overwhelmed by the burden of caring for both her son and her husband, leading to feelings of frustration and despair.\n\n### Relevant Information Analysis\n- **Characters**: Bu Mus (mother)\n- **Plot**: Bu Mus is dealing with her son's misbehavior and the weight of his responsibilities.\n- **Themes**: Overwhelming responsibility, emotional turmoil, seeking help from others.\n\n### Key Facts\n- **Character**: Bu Mus\n- **Role**: Mother\n- **Conflict**: Misbehavior of her son, overwhelming responsibilities\n- **Emotional State**: Frustration, despair\n\n### Final Answer\nBu Mus plays a crucial role as the mother in the novel \"Seandainya Mereka Bisa Bicara\" (If They Could Talk). She faces immense pressure due to her son's misbehavior and the heavy responsibilities of caring for both her son and her husband. Her emotional state is characterized by frustration and despair, highlighting the challenges she encounters in parenting and balancing her family obligations."
+  },
+  {
+    "idx": 4,
+    "question": "siapa saja tokoh pemeran dalam buku ini",
+    "golden_answers": [
+      "Tokoh pemeran dalam buku ini termasuk Pak Harfan, Bu Mus, Lintang, Trapani, Mahar, Borek, Kucai, Sahara, dan A Kiong."
+    ],
+    "output": "To summarize, the text describes a series of events involving a young boy named Lintang who struggles with reading and writing due to his family's circumstances. Despite this challenge, his mother, Meskipuntak, continues to encourage him and shows him various books. Through persistence and determination, Lintang manages to overcome his difficulties and develop a love for reading. The story highlights the importance of support systems and the value of perseverance in overcoming obstacles.\nLintang is unable to learn because his house is noisy and crowded, making it difficult for him to find a quiet place to study. However, one day he decides to take action by bringing a book with him. As soon as he does so, he flies out of the dusty old bookshelf with its peeling paint on the wooden surface. This event marks a significant turning point in Lintang's life, as he finally finds a peaceful environment to focus on his studies.\nLintangselaluterobsesidan,Lintang selalu terobsesi dengan hal-hal baru, setiap informasi adalaah sumbu ilmu yang dapat meledakkan rasa ingin tahu. Kami berada di kelas lima dan kejadian ini terjadi ketika Ia diselamatkan oleh Bodenga. Kejadian ini menjadi awal dari perjalanan mereka bersama.\nLintangselaluterobsesidan,Lintang selalu terobsesi dengan hal-hal baru, setiap informasi adalaah sumbu ilmu yang"
+  }
+]
